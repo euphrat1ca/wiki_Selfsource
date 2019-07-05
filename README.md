@@ -56,6 +56,8 @@
 - https://github.com/sym233/core-values-encoder    js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://pdos.csail.mit.edu/archive/scigen/ SCIgen    学术文档虚拟文件生成钓鱼
 ### 公开资源工具
+- https://archive.org    Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
+- http://web.archive.org    网站时光机
 - https://wn.run    万能命令.自动加载网站脚本，视频解析/文档下载/翻译/快照等。
 - https://2tool.top/    域名前面加上his.sh，网页快照
 - https://www.freenom.com    注册免费域名，dns解析
