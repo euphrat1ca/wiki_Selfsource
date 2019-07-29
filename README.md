@@ -41,6 +41,10 @@
 - https://github.com/chaitin/strapdown-zeta    strapdown.js。长亭二次开发开源的Wiki系统，支持markdown
 - https://github.com/RobbieHan/gistandard    PY.基于DjanGO的OA工单办公管理系统
 - https://github.com/pavanw3b/sh00t    PY3.基于DjanGO的安全测试工单管理
+- https://github.com/b3log/symphony    JAVA.论坛/BBS/社交网络/博客社区平台
+- https://github.com/b3log/pipe    GO.多用户博客平台
+- https://github.com/b3log/solo    JAVA.个人博客
+- 
 ### 邮件通讯
 - https://salmon-mail.readthedocs.io    PY.实现邮件服务器功能的python包模块
 - https://github.com/gyxuehu/EwoMail    PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
@@ -64,8 +68,10 @@
 - https://www.onlinedoctranslator.com/    在线文档翻译
 - https://zh.wikihow.com 生活百科
 - https://pandownload.com/ 下载
-- https://www.baiduwp.com/ 百度下载
+- https://www.baiduwp.com/    网盘下载
+- https://github.com/b3log/baidu-netdisk-downloaderx    GO/JS.BND是基于G:BaiduPCS-Go图形界面的百度网盘不限速下载器
 - http://www.speedpan.com/ 下载
+- https://github.com//peterq/pan-light    GO.网盘不限速客户端, golang + qt5, 跨平台图形界面 
 ### SEO引流
 - https://www.seopojie.com    推广链接SPAM，SEO
 - http://www.mkgzs.com    猫客剑眉大侠SEO引流
@@ -97,9 +103,10 @@
 - https://www.gobaidugle.com 联合搜索
 - https://lookao.com/ 匿名搜索
 - https://mijisou.com/ 匿名搜索
-### 视频下载
+### 资源下载
 - https://www.parsevideo.com/    视频解析
 - https://github.com/soimort/you-get    PY.视频下载
+- https://github.com//aria2/aria2    C++.下载器
 ### 网站源码程序外包
 - http://down.chinaz.com    除了源码还有各种工具
 - http://www.mycodes.net    源码之家，大部分免费
