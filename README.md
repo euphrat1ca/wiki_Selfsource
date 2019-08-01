@@ -1,5 +1,63 @@
 # wiki_Selfsource
  wiki_Selfsource
+### 域名与IP检测
+https://x.threatbook.cn/
+https://www.virustotal.com/gui/
+https://www.threatcrowd.org/
+https://www.threatminer.org/
+https://www.talosintelligence.com/
+https://checkphish.ai/domain/avfisher.win
+https://login.opendns.com/
+https://www.alexa.com/siteinfo
+https://centralops.net/co/DomainDossier.aspx?dom_whois=1&net_whois=1&dom_dns=1
+### URL检测
+https://urlscan.io/
+https://sitecheck.sucuri.net/results/pool.cortins.tk
+https://quttera.com/
+https://www.virustotal.com/en/
+https://checkphish.ai/
+### TOR节点检测
+https://www.dan.me.uk/torcheck
+https://exonerator.torproject.org
+https://ipduh.com/ip/tor-exit/
+http://torstatus.blutmagie.de/
+### 邮件检测
+SPF:http://spf.myisp.ch/
+MX:https://toolbox.googleapps.com/apps/checkmx
+DMARC:https://www.agari.com/insights/tools/DMARC
+### 在线恶意文件检测
+https://www.virustotal.com/gui/
+https://x.threatbook.cn/
+https://malwr.com/
+http://camas.comodo.com/  
+https://www.reverse.it/
+http://threatexpert.com/submit.aspx
+http://vicheck.ca/
+https://virusshare.com/
+https://malshare.com/
+https://github.com/ytisf/theZoo
+### 动态恶意文件检测
+cuckoo：
+https://github.com/cuckoosandbox/cuckoo
+regshot：
+https://sourceforge.net/projects/regshot/
+Process hacker
+https://processhacker.sourceforge.net
+Process monitor：
+https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon
+ProcDot：
+https://www.cert.at/downloads/software/procdot_en.html
+windump：
+https://www.winpcap.org/windump/
+Graphviz：
+www.graphviz.org/Download.php
+Gapture-BAT:
+https://www.honeynet.org/node/315
+fakenet:
+https://sourceforge.net/projects/fakenet/
+wireshark:
+https://www.wireshark.org/download.html
+
 ## 办公套件
 - https://sadd.io/ 在线操作系统
 - https://etherpad.net/ 在线可编辑记事本
@@ -9,6 +67,7 @@
 - https://send.firefox.com 火狐网盘
 - https://www.rejetto.com/hfs/    DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
 - https://github.com/ganlvtech/down_52pojie_cn    PHP.52pojie网盘源码
+- https://github.com/star7th/showdoc    JS.文档管理平台
 - https://github.com/micahflee/onionshare    PHP.利用onion洋葱服务器匿名文件共享
 - https://github.com/filebrowser/filebrowser    GO.基于Caddy框架的网盘
 - https://github.com/nextcloud/server    php.私有云网盘，owncloud分支
@@ -86,6 +145,7 @@
 - https://www.toolfk.com/ 程序员工具箱。文本对比/取坐标/转换/文档生成
 - https://codebeautify.org 在线代码美化
 - https://www.draw.io 在线思维导图/流程图
+- https://www.remove.bg/api    在线抠图。api
 - https://www.photopea.com/ 在线ps
 - http://edit.foxitcloud.cn/ 在线pdf编辑
 - https://www.pdfpai.com/ 在线pdf转换
