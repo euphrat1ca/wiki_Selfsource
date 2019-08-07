@@ -132,6 +132,7 @@ https://www.wireshark.org/download.html
 - https://pandownload.com/ 下载
 - https://www.baiduwp.com/    网盘下载
 - https://github.com/b3log/baidu-netdisk-downloaderx    GO/JS.BND是基于G:BaiduPCS-Go图形界面的百度网盘不限速下载器
+- https://github.com/wu-dada/baidupankey    JS.查询百度网盘提取密码
 - http://www.speedpan.com/ 下载
 - https://github.com//peterq/pan-light    GO.网盘不限速客户端, golang + qt5, 跨平台图形界面 
 ### SEO引流
