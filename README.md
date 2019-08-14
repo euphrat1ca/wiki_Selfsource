@@ -77,8 +77,8 @@ https://www.wireshark.org/download.html
 - http://sc.ftqq.com/3.version    server酱微信通知
 - http://www.vuln.cn/tools/ftp    在线FTP登录
 ### 网盘服务
-- https://send.firefox.com 火狐网盘
-- https://www.upload.ee/ 文件共享平台
+- https://send.firefox.com    火狐网盘
+- https://www.upload.ee/    文件共享平台
 - https://www.rejetto.com/hfs/    DELPHI. Windows下文件传输HFS (HTTP File Server)，http网盘。
 - https://github.com/ganlvtech/down_52pojie_cn    PHP.52pojie网盘源码
 - https://github.com/micahflee/onionshare    PHP.利用onion洋葱服务器匿名文件共享
@@ -91,13 +91,19 @@ https://www.wireshark.org/download.html
 - https://www.lshack.cn/118/    在线接收验证码/邮箱/粘贴板/文件传输大集合。
 - https://github.com/star7th/showdoc    JS.文档管理平台
 - https://gitee.com/zmister/MrDoc    PY.简单的MarkDown文档写作系统
-### 通讯隐私加密
+### 通讯隐私加密虚拟身份
 - https://github.com/walkor/workerman-chat    php.在线聊天室。可扩展
 - https://github.com/hack-chat    js.在线聊天，问号后面跟你的房间名。https://hack.chat/?your-channel
 - https://github.com/akaxincom/openzaly    JAVA.聊天室，Akaxin为客户端闭源
 - https://github.com/RocketChat/Rocket.Chat    js.在线团队聊天服务器。https://rocket.chat/install
 - https://www.fakenamegenerator.com    多国身份信息模拟器
-- https://github.com/euphrat1ca/FreeConnect    讯隐私加密
+- https://github.com/gh0stkey/RGPerson    PY.随机身份生成脚本
+- https://github.com/euphrat1ca/FreeConnect    通讯隐私加密
+### 邮件通讯
+- https://salmon-mail.readthedocs.io    PY.实现邮件服务器功能的python包模块
+- https://github.com/gyxuehu/EwoMail    PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
+- https://github.com/PHPMailer/PHPMailer       PHP.PHP发送邮件的组件
+- https://github.com/mailpile/Mailpile    PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 ### 社区管理
 - https://github.com/elgg/elgg    PHP.社交网络引擎、社区，mysql数据库
 - https://github.com/chaitin/strapdown-zeta    strapdown.js。长亭二次开发开源的Wiki系统，支持markdown
@@ -106,17 +112,11 @@ https://www.wireshark.org/download.html
 - https://github.com/b3log/symphony    JAVA.论坛/BBS/社交网络/博客社区平台
 - https://github.com/b3log/pipe    GO.多用户博客平台
 - https://github.com/b3log/solo    JAVA.个人博客
-- 
-### 邮件通讯
-- https://salmon-mail.readthedocs.io    PY.实现邮件服务器功能的python包模块
-- https://github.com/gyxuehu/EwoMail    PHP.EwoMail是基于Linux的企业邮箱服务器，集成了众多优秀稳定的组件，是一个快速部署、简单高效、多语言、安全稳定的邮件解决方案
-- https://github.com/PHPMailer/PHPMailer       PHP.PHP发送邮件的组件
-- https://github.com/mailpile/Mailpile    PY,JS.邮件客户端/服务器，支持pgp加解密、隐私保护。8K。
 ### 短网址
 - https://www.ft12.com    支持访问数据查询
 - http://sina.lt    新浪短链接，匿名访问
 - https://dwz.cn    百度短连接
-- http://suo.im    访问数据查询，匿名访问
+- http://suo.im    访问数据查询，访问
 ## 自服务应用
 - https://github.com/Kickball/awesome-selfhosted    awesome系列之自服务应用
 - https://github.com/sym233/core-values-encoder    js.社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
