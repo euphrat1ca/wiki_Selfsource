@@ -68,7 +68,7 @@ https://www.wireshark.org/download.html
 - https://cmder.net    命令行功能加强
 - https://github.com/nvbn/thefuck    PY.命令行自动补全改错工具
 - http://ohshitgit.com/    intro.git操作手册
-- https://www.mythicsoft.com    全文检索工具。FileLocatorPro
+- https://www.mythicsoft.com    全文检索工具。FileLocatorPro，类似如SearchMyFiles
 - https://www.voidtools.com    文件和文件夹快速定位。Everything
 - https://github.com/DoubleLabyrinth/MobaXterm-keygen    PY.putty远程服务管理工具。MobaXterm注册机
 - https://github.com/DoubleLabyrinth/navicat-keygen    C.数据库管理工具navicat注册机
