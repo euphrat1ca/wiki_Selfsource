@@ -57,7 +57,6 @@ fakenet:
 https://sourceforge.net/projects/fakenet/
 wireshark:
 https://www.wireshark.org/download.html
-
 ## 办公套件
 - https://sadd.io/ 在线操作系统
 - https://github.com/zyx0814/dzzoffice    PY.在线办公套件，DEMO网址demo.dzzoffice.com
@@ -161,14 +160,16 @@ https://www.wireshark.org/download.html
 - http://wenku.baiduvvv.com/doc/    文库下载
 - http://www.pptbz.com    ppt下载
 - http://www.1ppt.com/    ppt下载
+- http://vipread.com/    信息安全知识库
 ### 搜索引擎
 - https://www.wolframalpha.com    问题答案搜索
-- http://ac.scmor.com/ 谷歌搜索镜像
+- http://ac.scmor.com/    谷歌搜索镜像
 - https://github.com/asciimoo/searx    PY.搭建一个自己的搜索引擎，DEMO网址 https://searx.me/
-- https://www.gobaidugle.com 联合搜索
-- https://lookao.com/ 匿名搜索
-- https://mijisou.com/ 匿名搜索
+- https://www.gobaidugle.com    联合搜索
+- https://lookao.com/    匿名搜索
+- https://mijisou.com/    匿名搜索
 ### 资源下载
+- https://www.appinn.com/    小众软件下载
 - https://www.parsevideo.com/    视频解析
 - https://github.com/soimort/you-get    PY.视频下载
 - https://github.com//aria2/aria2    C++.下载器
