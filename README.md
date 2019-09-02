@@ -37,28 +37,19 @@ https://virusshare.com/
 https://malshare.com/
 https://github.com/ytisf/theZoo
 ### 动态恶意文件检测
-cuckoo：
-https://github.com/cuckoosandbox/cuckoo
-regshot：
-https://sourceforge.net/projects/regshot/
-Process hacker
-https://processhacker.sourceforge.net
-Process monitor：
-https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon
-ProcDot：
-https://www.cert.at/downloads/software/procdot_en.html
-windump：
-https://www.winpcap.org/windump/
-Graphviz：
-www.graphviz.org/Download.php
-Gapture-BAT:
-https://www.honeynet.org/node/315
-fakenet:
-https://sourceforge.net/projects/fakenet/
-wireshark:
-https://www.wireshark.org/download.html
+cuckoo：https://github.com/cuckoosandbox/cuckoo
+regshot：https://sourceforge.net/projects/regshot/
+Process hackerhttps://processhacker.sourceforge.net
+Process monitor：https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon
+ProcDot：https://www.cert.at/downloads/software/procdot_en.html
+windump：https://www.winpcap.org/windump/
+Graphviz：www.graphviz.org/Download.php
+Gapture-BAT:https://www.honeynet.org/node/315
+fakenet:https://sourceforge.net/projects/fakenet/
+wireshark:https://www.wireshark.org/download.html
 ## 办公套件
 - https://sadd.io/ 在线操作系统
+- https://otp.landian.vip    Office Tool Plus基于 Office Deployment Tool 打造，可以很轻松地部署 Office。G:YerongAI/Office-Tool
 - https://github.com/zyx0814/dzzoffice    PY.在线办公套件，DEMO网址demo.dzzoffice.com
 - https://thyrsi.com/ 图片上传分享工具
 - https://github.com/aimerforreimu/auxpi    GO.多api图床
